@@ -1,11 +1,10 @@
 package service;
 
-import View.MenuAccount;
-import View.MenuAdmin;
-import View.MenuCustomer;
+import view.MenuAccount;
+import view.MenuAdmin;
+import view.MenuCustomer;
 import entities.*;
 import statics.TypeRole;
-import statics.TypeStatus;
 
 import java.util.*;
 

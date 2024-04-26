@@ -58,7 +58,6 @@ public class CustomerService {
         inputAccount();
         FileUtil.writeDataFile(customers, CUSTOMER_DATA_FILE);
         System.out.println("Bạn đã tạo tài thành công...");
-        System.out.println(customers);
     }
 
     private boolean emailValidator(String email) {

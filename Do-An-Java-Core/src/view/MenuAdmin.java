@@ -1,12 +1,10 @@
-package View;
+package view;
 
 import entities.Order;
-import entities.OrderItem;
 import entities.Product;
 import service.OrderService;
 import service.ProductService;
 import service.ReportService;
-import statics.TypeStatus;
 import statics.Contant;
 import utils.IOUtil;
 

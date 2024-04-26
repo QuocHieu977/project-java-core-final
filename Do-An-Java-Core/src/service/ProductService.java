@@ -1,10 +1,9 @@
 package service;
 
-import View.MenuAdmin;
-import View.MenuCustomer;
+import view.MenuAdmin;
+import view.MenuCustomer;
 import entities.*;
 import statics.TypeProduct;
-import statics.TypeRole;
 import utils.IOUtil;
 import utils.file.FileUtil;
 

@@ -1,4 +1,4 @@
-package View;
+package view;
 
 import entities.Customer;
 import service.CustomerService;
